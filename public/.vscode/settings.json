@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "files.associations": {
+        ".js": "javascript",
+        ".jsx": "javascript components",
+        ".css": "Css"
+    }
+}
